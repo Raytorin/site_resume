@@ -6,7 +6,7 @@
 
 - **тел.:** +7 (911) 298-96-51
 - **email:** pulromans@gmail.com
-- **Telegram:** [https://t.me/Raytore](https://t.me/Raytore)
+- **Telegram:** [https://t.me/PulpyAmbassador](https://t.me/PulpyAmbassador)
 - **портфолио:** [https://github.com/Raytorin](https://github.com/Raytorin)
 
 ## Ключевые компетенции
