@@ -3,7 +3,7 @@
 ![my picture](photo/my_photo.jpg)
 
 ## Контактная информация
-- 📞 +7(911)290‑11‑11
+- 📞 +7(911)298‑96‑51
 - ✉️ pulromans@gmail.com
 - Telegram: @PulpyAmbassador
 - GitHub: https://github.com/Raytorin
