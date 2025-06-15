@@ -1,5 +1,7 @@
 # Роман Пуляхо
 
+![my picture](photo/my_photo.jpg)
+
 ## Контактная информация
 - 📞 +7(911)290‑11‑11
 - ✉️ pulromans@gmail.com
